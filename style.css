@@ -1,0 +1,42 @@
+#Headersection{
+    background-color: black;
+}
+#navbarSupportedContent ul li a{
+    color: white;
+    font-weight: 500;
+}
+#navbarSupportedContent ul li a:hover{
+    color: red;
+}
+#navbarSupportedContent ul{
+    margin-left: 180px;
+}
+#ReTypes{
+
+    margin-top: -64px;
+}
+#divTypes1{
+    background-color: black;
+}
+#divTypes1 h1{
+    color: white;
+    display: inline-block;
+    font-size: 21px;
+    margin-left: 32px;
+    margin-top: 10px;
+    font-weight: 900;
+}
+#divTypes1 ul{
+    display: inline-block;
+}
+#divTypes1 ul li{
+    color: white;
+    display:inline-block;
+    padding: 0px 21px;
+    border-right: 3px solid white;
+
+
+}
+#divTypes1 ul li:hover{
+    color: red;
+}
